@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="maven.maven.AppTest" duration-ms="7" started-at="2020-05-17T11:59:12Z" finished-at="2020-05-17T11:59:12Z">
+  <suite name="maven.maven.AppTest" duration-ms="6" started-at="2020-05-17T12:10:54Z" finished-at="2020-05-17T12:10:54Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="7" started-at="2020-05-17T11:59:12Z" finished-at="2020-05-17T11:59:12Z">
+    <test name="Command line test" duration-ms="6" started-at="2020-05-17T12:10:54Z" finished-at="2020-05-17T12:10:54Z">
     </test> <!-- Command line test -->
   </suite> <!-- maven.maven.AppTest -->
 </testng-results>
